@@ -54,7 +54,7 @@
       "pages": [
         "introduction",
         "quickstart",
-        "pages": ["MyFolder/mypage"],
+        ""MyFolder/mypage",
         "development"
       ]
     },
